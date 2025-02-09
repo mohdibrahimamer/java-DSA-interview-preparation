@@ -2,7 +2,7 @@ package BasicsQuestions;
 
 import java.util.Scanner;
 
-public class BasicsQuestions {
+public class Questions2 {
     public static void main (String[] args){
 //        question 2
 //        Take name as input and print a greeting message for that particular name.

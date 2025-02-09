@@ -1,8 +1,6 @@
 package BasicsQuestions;
 
-import java.util.Scanner;
-
-public class SecondQuestion {
+public class Question4 {
     public static void main(String[] args) {
 //        question 4 in kunal first program file
 //        Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)

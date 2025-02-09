@@ -2,7 +2,7 @@ package BasicsQuestions;
 
 import java.util.Scanner;
 
-public class ThirdQuestion {
+public class Question5 {
     public static void main(String[] args) {
 //        question no 5 in kunal first java assign file
 //        Take 2 numbers as input and print the largest number.

@@ -2,7 +2,7 @@ package BasicsQuestions;
 
 import java.util.Scanner;
 
-public class FifthQuestion {
+public class Question6 {
     public static void main(String[] args) {
 //        question 6 in kunal assignment first java program
 //        there is a mistake in this program formula is wrong
